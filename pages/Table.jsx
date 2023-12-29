@@ -3,7 +3,7 @@ import React from "react";
 export default function Table() {
   return (
     <div className="relative overflow-x-auto ">
-      <table className="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400 ">
+      <table className="w-full text-sm text-left rtl:text-right text-gray-500 ">
         <caption className="p-5 text-lg font-bold text-left rtl:text-right text-gray-600 bg-white dark:text-white dark:bg-gray-800 ">
           PEOPLE LEADERBOARD
         </caption>
